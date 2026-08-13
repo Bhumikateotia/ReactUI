@@ -4,7 +4,7 @@ const About=(name)=>{
     <div>
         {/* prop me data pass parent to child   */}
         {/* parent to child  */}
-      <div>{name.name}</div>
+      {/* <div>{name.name}</div> */}
     </div>
   )
 }
