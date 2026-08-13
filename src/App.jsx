@@ -3,7 +3,6 @@ import './App.css'
 import Home from './assets/Home'
 import About from './assets/About'
 import Shop from './assets/Shop'
-   // then inside your JSX: <Shop />
 
 function App() {
   
